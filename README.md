@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats
 
-![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daxvaghela&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
+![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakshVaghela&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 
 
 ---
